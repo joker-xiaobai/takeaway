@@ -16,7 +16,7 @@ public class EmployeeDTO implements Serializable {
     private String phone;
 
     private String sex;
-
+    //身份证号
     private String idNumber;
 
 }
